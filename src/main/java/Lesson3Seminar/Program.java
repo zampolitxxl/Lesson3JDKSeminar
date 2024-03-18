@@ -52,6 +52,8 @@ public class Program {
         System.out.println("Ошибка, позволяет добавить два объекта одного типа  " + pairError.getT());
         System.out.println("Ошибка, позволяет добавить два объекта одного типа  " + pairError.getU());
 
+        System.out.println( pairError);
+
 
 
     }

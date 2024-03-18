@@ -7,12 +7,12 @@ sum(), multiply(), divide(), subtract(). Параметры этих метод�
 над которыми должна быть произведена операция.*/
 
 
-
+/*
 
     public Calculator() {
     }
 
-/*
+
 
     public  static <T extends   Number,U extends   Number> double sum (T firstNumber, U secondNumber){
 

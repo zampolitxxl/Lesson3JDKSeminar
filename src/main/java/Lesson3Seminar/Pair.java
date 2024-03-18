@@ -23,4 +23,12 @@ public class Pair<T, U> {
     public U getU() {
         return u;
     }
+
+    @Override
+    public String toString() {
+
+        String s = "первый аргумент = " + t  + "второй аргумент = " + u;
+
+        return s;
+    }
 }
